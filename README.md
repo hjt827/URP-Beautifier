@@ -9,22 +9,22 @@
 
 ## 使用方法 Usage
 
-### 如果你使用 Chrome
+### Chrome食用方式
 
 点击链接访问 [chrome 插件商店](https://chrome.google.com/webstore/category/extensions?hl=en-US) 安装即可。
 
 如果无法打开页面，请参考以下步骤：
 
-1. 下载 [release](https://github.com/RiverTwilight/URP-Beautifier/releases) 中的 zip 文件`，解压缩。
+1. 下载`URP-Beautifier-1.0.0.zip`，解压缩。
 2. 打开 Chorme 浏览器，地址栏输入 [chrome://extensions](chrome://extensions)，回车。
 3. 在打开的页面中，打开右上角的"开发者模式”选项。
 4. 点击页面上方三个按钮中第一个，加载未打包的扩展程序。
 5. 选择之前解压的文件夹，完成。
 
-### 如果你使用 Edge
+### Edge食用方式
 
-1. 下载 [release](https://github.com/RiverTwilight/URP-Beautifier/releases) 中的 zip 文件，解压缩。
-2. 打开 Edge 浏览器，地址栏输入 [edge://extensions](edge://extensions)，回车。
+1. 下载`URP-Beautifier-1.0.0.zip`，解压缩。
+2. 打开Edge浏览器，地址栏输入 [edge://extensions](edge://extensions)，回车。
 3. 在打开的页面中，打开左侧的"开发人员模式"选项。
 4. 点击页面上方的"加载解压缩的扩展"。
 5. 选择解压的文件夹，完成。
@@ -42,3 +42,7 @@ yarn run dev
 ## About
 
 License: MIT
+
+## 使用反馈
+
+* [hjt827](https://github.com/hjt827) 集美们，这个插件真是太好用啦！把我的教务系统变得绝绝子！
